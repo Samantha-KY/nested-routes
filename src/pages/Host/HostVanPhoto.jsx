@@ -1,4 +1,4 @@
-import React from "react";
+/* eslint-disable jsx-a11y/alt-text */
 import { useOutletContext } from "react-router-dom";
 
 export default function HostVanPhotos() {
