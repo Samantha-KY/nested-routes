@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import Image1 from "../images/Image1.png";
 import { Link } from "react-router-dom";
 
