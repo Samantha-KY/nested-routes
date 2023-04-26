@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   box-sizing: border-box;
 }
@@ -7,7 +11,6 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fff7ed;
-  font-family: "Inter", sans-serif;
 }
 
 body::-webkit-scrollbar {
